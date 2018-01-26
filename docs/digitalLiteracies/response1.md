@@ -1,1 +1,16 @@
+# Digital Literacies Response 1
+25 January 2018
 
+The conversation between Steven Ramsay and Geoffrey Rockwell in Untitled Number 4: A Brechto-Socratic Dialogue is interesting to me because it interests me in two different ways: as a novice programmer and as a novice writer. In the dialogue, Ramsay and Rockwell go over the points for and against code being text and being narrative. This conversation is interesting, but I think they get some things muddled along the way.
+
+Even if Rockwell quotes Socrates, saying “We must know what it is that we are deliberating about; otherwise, we are bound to go utterly astray,” I don’t think they exactly know what they are discussing. Rockwell tries to go into the difference between, “the differences between code and text” without defining both terms. He gives Ramsay (and, by proxy, us the audience) a definition of code, which Ramsay eventually disagrees with to a degree, but doesn’t give the audience a definition of text itself. 
+
+This oversight might have developed from the fact that both of them would be theoretically well versed in some form of implied definition of the term. Especially since both of them are well-versed with rhetoric and literature, to the degree that they are so aware of the works of Plato that they casually bring it up in conversation. However, this oversight is crucial in what I see as the stumbling of the two parties in the conversation. 
+
+So, what is text? The pair seem to be going for several different definitions at once; in the conversation about whether or not the primary audience for a piece of code is a machine or a human, the definition that they seem to use might go like this: text is the collection of signs and symbols that are able to convey narrative. 
+
+However, during the conversation where they argue about whether or not code can convey narrative, they don’t use the same definition. They use the definition where text is a work of narrative art in its entirety. While only the letters and punctuation within a film’s screenplay might be the only thing that fit the first definition, the finished film would be the primary topic of interest using the second definition. 
+
+This confusion between definitions belies a far greater misunderstanding: Ramsay and Rockwell are blurring the lines between text, as in the “thing that helps humans communicate using visual symbols,” and the concept of narrative. This is most explicitly demonstrated when the dialogue turns to when, and if, programs tell stories. In one of his preceding responses Ramsay tells us that “code is meant to be read by humans,” but a few short paragraphs later he’s saying that “it has become almost a truism to say that a program is a kind of narrative.” Rockwell doesn’t even call his argumentative counterpart out on it. I understand that this dialogue is theoretically a podcast, but they’re downright being scattershot in their execution.
+
+Bringing the humanities to the often sparse world of code shouldn’t be this muddled. I’ll admit that this dialogue is interesting inasmuch as it is a good jumping off point — I especially like the final question presented to us by Rockwell, and I’d love to do an analysis of tropes and narrative shorthands as a sort of way that texts encapsulate information for the reader — but the lack of precision in this dialogue is rather disappointing.
