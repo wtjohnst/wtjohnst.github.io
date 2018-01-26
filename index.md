@@ -8,7 +8,7 @@ I'm a student studying at the University of Southern Mississippi's Gulf Park cam
 
 ### Digital Literacies
 
-[Response 1](https://github.com/wtjohnst/wtjohnst.github.io/commit/94f6b222738f4774d3c97077e8612bb1d720cdc8)
+[Response 1](https://github.com/wtjohnst/wtjohnst.github.io/blob/master/docs/digitalLiteracies/response1.md)
 
 ### Object-Oriented Programming
 
