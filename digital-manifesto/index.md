@@ -1,4 +1,3 @@
-# Digital Manifesto
-#### By William Johnston
+# My Digital Manifesto
 
 ### Introduction
