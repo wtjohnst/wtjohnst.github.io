@@ -1,3 +1,19 @@
 # My Digital Manifesto
 
-### Introduction
+This is the age of the internet, for better and for worse. In my country, the United States, the Internet has become a dominant force in both public and private life. It has become indispensable for professional life in many fields, and has become a platform on which a career can be made. Socializing has been alternately augmented and supplanted in the age of social media. Much of our entertainment is now streamed from large services; we ask directions from our phones; we buy things from online sellers; we build our own self-images from the words and images posted by strangers. 
+
+In short, the internet has become a necessary and vital organ of an average American’s life. It has become part of the very fabric of ourselves, and has by and large lost the otherness associated with the colloquial connotations of ‘technology.’ And, as such, it has become an extension of ourselves. Just as we think of clothes or automobiles or the words that we speak as not technology, we are beginning to think of our smartphones as not technology as well. 
+
+In a sense, we have become cyborgs; to quote Donna Haraway, “We are all chimeras, theorized and fabricated hybrids of machine and organism.”[1] While our phones and laptops (et cetera) are not literally part of ourselves, they are still ‘ourselves’ in the sense that we act through them, and onto the oftentimes bizarre digital landscape of the internet.
+
+Though, this image of technology is complicated in the sense that humanity has perhaps always had technology, as things like stone axes and clothes and language are just as much a technology as any phone. All these objects and concepts are inventions of humanity for the utilization by humanity, in one way or another. Even if that purpose is as banal as making our dog look cute. Language, for example, is an artificial construct which has a plethora of uses, but is ultimately in service to executing the will of the person using it. Despite it not having a clear origin or inventor, it still logically fits the definition. Thus, one of humanity’s defining features is that of its utilization and dependence on technology.
+
+If humanity is defined by the utilization of tools of its own construction, and the internet has become critical to the function of at least a sizable subset of humanity, then it becomes necessary to question the effect that the internet has had on us, as individuals and as a community. I find that the effect that the internet has had on my society and culture has generally been ambivalent. For one, it has provided the world with the most powerful communication tool yet known, and it being a potent tool for communication is generally true.
+
+However, the promise of the internet has been squashed. This is mostly due to the influence of big companies; Google, Amazon, Facebook, Twitter et al. are all competing to monopolize our time, buy things from them, and wring information from us. They have grown to monolithic and hegemonic proportions, encompassing a large portion of our time and our mental map of the internet. Not that it is a bad thing that there are common cornerstones in public life, even on the internet, or that there are communities on Twitter or Facebook. But because these companies are aiming for profit and/or increasing value for shareholders, these companies thus must have motives contrary to that of the users or of the communities that they create. For example, privacy rights are not observed because it is profitable to sell the data that these sites can collect on their users.
+
+What this means for the internet is that the architecture of the internet is based on an attention economy. And in the attention economy, anger is the most powerful thing that you can have. Thus, on the internet, politics based on anger flourishes. 
+
+{…}
+
+[1] Donna Haraway, A Cyborg Manifesto: Science, technology, and socialist-feminism in the late twentieth century. https://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf
